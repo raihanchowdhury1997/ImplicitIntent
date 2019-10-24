@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="call_text">To make Call,You have to allow permission</string>
+</resources>
